@@ -63,4 +63,26 @@ O que deseja fazer?
 3. Procurar nome
 4. Encerrar sessão
 
+===Exemplo de Listagem===
+Nome: Gerson
+Email: gerson@gmail.com
+Idade: 29
+
+Nome: David
+Email: david@gmail.com
+Idade: 45
+
+Nome: Vanessa
+Email: vanessa@hotmail.com
+Idade: 22
+-----------------------------------
+
+===Exemplo de Busca===
+Digite o nome Usuario:
+Gerson
+
+Gerson - gerson@gmail.com - 29
+
+
+
 
