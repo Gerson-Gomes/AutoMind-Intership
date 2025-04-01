@@ -1,0 +1,14 @@
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/bin/Debug/net8.0/ConsoleAutoMind
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/bin/Debug/net8.0/ConsoleAutoMind.deps.json
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/bin/Debug/net8.0/ConsoleAutoMind.runtimeconfig.json
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/bin/Debug/net8.0/ConsoleAutoMind.dll
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/bin/Debug/net8.0/ConsoleAutoMind.pdb
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.AssemblyInfoInputs.cache
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.AssemblyInfo.cs
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.csproj.CoreCompileInputs.cache
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.dll
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/refint/ConsoleAutoMind.dll
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.pdb
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ConsoleAutoMind.genruntimeconfig.cache
+/home/gerson/RiderProjects/ConsoleAutoMind/ConsoleAutoMind/obj/Debug/net8.0/ref/ConsoleAutoMind.dll
